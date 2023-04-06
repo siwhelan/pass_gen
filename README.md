@@ -27,7 +27,7 @@ Run the Django development server:
 
 ```python manage.py runserver```
 
-Open your web browser and navigate to http://localhost:8000/password-generator/.
+Open your web browser and navigate to http://localhost:8000/password_app/.
 
 ## Screenshot
 
