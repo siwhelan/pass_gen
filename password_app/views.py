@@ -1,6 +1,6 @@
 import string
 import secrets
-import pyperclip
+# import pyperclip
 from django.shortcuts import render
 
 
@@ -35,7 +35,7 @@ def password_generator_view(request):
             alert_class = "alert-danger"
 
         # Copy the password to the clipboard
-        pyperclip.copy(secrets_password)
+        # pyperclip.copy(secrets_password)
 
         return render(
             request,
