@@ -4,7 +4,7 @@ My take on the ever popular Password Generator!
 
 This is a simple Django web application that generates random passwords using Python's built-in string and secrets modules. The generated passwords can include lowercase and uppercase letters, digits, and punctuation characters.
 
-### [Live Demo](https://pass-gen-mocha.vercel.app/)
+### [Live Demo](https://pass-gen-gray.vercel.app/)
 
 ## Usage
 
