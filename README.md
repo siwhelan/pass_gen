@@ -17,7 +17,7 @@ To install and run the app locally, follow these steps:
 Clone the repository to your local machine:
 
 
-```git clone https://github.com/siwhelan/passGen.git```
+```git clone https://github.com/siwhelan/pass_gen.git```
 
 Install the required Python packages:
 
@@ -27,9 +27,9 @@ Run the Django development server:
 
 ```python manage.py runserver```
 
-Open your web browser and navigate to http://localhost:8000/password-generator/.
+Open your web browser and navigate to http://localhost:8000/.
 
 ## Screenshot
 
-https://github.com/siwhelan/passGen/blob/main/screenshot.PNG
+https://github.com/siwhelan/pass_gen/blob/main/screenshot.PNG
 
