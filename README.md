@@ -8,7 +8,7 @@ This is a simple Django web application that generates random passwords using Py
 
 ## Usage
 
-To use the password generator, simply enter the desired password length and select the types of characters you want to include (digits and/or punctuation) using the checkboxes. Then, click the "Generate Password" button to generate a new password. The password will be displayed on the screen and copied to your clipboard automatically.
+To use the password generator, simply enter the desired password length and select the types of characters you want to include (digits and/or punctuation) using the checkboxes. Then, click the "Generate Password" button to generate a new password.
 
 The app also provides a basic password strength check based on the length and complexity of the generated password. Passwords that are at least 20 characters long and contain at least one punctuation character are considered "strong," while passwords that are at least 10 characters long are considered "medium." Passwords that are shorter than 10 characters are considered "weak."
 
