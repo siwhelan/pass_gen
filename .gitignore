@@ -9,7 +9,6 @@ venv/
 ENV/
 # ignore .env files
 *.env
-.env.example
 
 # Django artifacts
 *.log
